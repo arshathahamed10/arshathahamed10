@@ -5,7 +5,7 @@
 ## Hi there 👋 It's me Arshath
 
 Student @Easwari Engineering College
-<img align="right" width="470" height="290" src="https://images.app.goo.gl/4jSLrauazbLjGnqaA">
+<img align="right" width="470" height="290" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg">
 - 💫 About Me:
 - 🔭 Here's my [portfolio]
 - Final year student at Easwari Engineering College                                          
